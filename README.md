@@ -38,7 +38,8 @@
 
 | Leaderboard | Challenge completion |
 |:--:|:--:|
-| ![Global sixth place](evidence/leaderboard.png) | ![All scenarios solved](evidence/completion.png) |
+| <img width="1919" height="916" alt="Screenshot_1" src="https://github.com/user-attachments/assets/c517c83a-8dc4-4a07-8055-e34748c38411" />
+ | ![All scenarios solved](evidence/completion.png) |
 
 ## 🔍 What this repository demonstrates
 
