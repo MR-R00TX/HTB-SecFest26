@@ -1,6 +1,7 @@
 <div align="center">
 
-![SecFest '26 event banner](evidence/event-banner.png)
+<img width="160" height="90" alt="1793341665629" src="https://github.com/user-attachments/assets/48bdc825-501b-4eb2-b28b-2bd44b65cde9" />
+
 
 # 🛡️ Hack The Box — SecFest'26 CTF
 ### Offensive Security | Web Exploitation | AI/LLM Security | Forensics | Secure Coding
