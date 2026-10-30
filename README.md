@@ -39,7 +39,8 @@
 | Leaderboard | Challenge completion |
 |:--:|:--:|
 | <img width="1919" height="916" alt="Screenshot_1" src="https://github.com/user-attachments/assets/c517c83a-8dc4-4a07-8055-e34748c38411" />
- | ![All scenarios solved](evidence/completion.png) |
+ | <img width="754" height="681" alt="Screenshot_2" src="https://github.com/user-attachments/assets/d08b0838-86ad-404b-8d38-65aecbf8eedf" />
+|
 
 ## 🔍 What this repository demonstrates
 
